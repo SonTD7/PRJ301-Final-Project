@@ -1,0 +1,15 @@
+.row .left{
+    
+    margin-top: 20%;
+}
+.row .right{
+    
+    margin-top: 10%;
+}
+
+.row .right div{
+   text-align: center;
+}
+.row .right #carouselExampleControls{
+    width: 60%;
+}
