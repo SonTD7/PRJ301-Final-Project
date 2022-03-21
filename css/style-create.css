@@ -1,0 +1,26 @@
+body{
+    margin: 0;
+}
+
+.container .nav-top .btn {
+    width: 3%;
+    color: aliceblue;
+    font-weight: bold;
+}
+
+.container .content-top .form-control{
+    border: 0;
+}
+.container .content-input .import-anw a{
+    text-decoration: none;
+    font-weight:bold;
+}
+body {
+    text-decoration: none;
+}
+
+
+
+
+
+

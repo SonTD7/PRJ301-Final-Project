@@ -13,3 +13,7 @@ body{
     height: 100px;
 
 }
+.container .content .row h3{
+    text-decoration: none;
+
+}
